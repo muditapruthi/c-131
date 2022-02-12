@@ -1,0 +1,19 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+color: palevioletred;
+}
+
+button
+{
+box-shadow: 10px 10px 10px plum;
+border-radius: 10px;
+margin-top: 59px;
+}
